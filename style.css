@@ -1,0 +1,330 @@
+*{margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+border: border-box;}
+
+.navbar{height: 60px;
+background-color: #0F1111;
+color: white;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+.navlogo{height: 50px;
+    width: 114px;}
+
+    .logo{background-image: url(amazon_logo.png);
+    background-size: cover;
+height: 50px;
+width:100%;}
+.border{border: 2px solid transparent;}
+.border:hover{
+    border: 2px solid white;
+}
+/* box 2 */
+
+.addressone{ font-size: 0.85rem;
+color: #cccccc;
+margin-left: 15px;}
+
+.addresstwo{font-size: 1rem;
+color: #ffffff;
+margin-left: 3px;}
+.addicon{display: flex;
+    align-items: center;
+    }
+   
+    /*box 3*/
+    .navsearch{display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+height: 40px;
+width: 850px;
+}
+.navsearch:hover{border: 3px solid orange;
+border-radius: 8px;}
+
+
+    .select{height: 40px;
+    width:54px ;
+background-color: #F3F3F3;
+color: #0F1111;
+text-align: center;
+border-top-left-radius:5px;
+border-bottom-left-radius: 5px;
+border: none;
+}
+.input{height: 40px;
+    width: 100%;
+font-size: 15px;
+border: none;
+}
+.searchicon{height: 40px;
+width: 47px;
+background-color: rgb(251, 181, 83);
+display: flex;
+justify-content: center;
+align-items: center;
+color: #0F1111;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+font-size: 20px;}
+
+/*box 4*/
+
+.country{height: 50px;
+width: 74px;
+display: flex;
+align-items: center;}
+
+.letter{background-color: #0F1111;
+color: #ffffff;
+font-weight: bold;
+border: none;
+font-size: 14px;}
+
+/*box 5*/
+
+.signin{font-size: 12px;
+}
+
+.list{font-size: 14px;
+font-weight: bold;
+color:#ffffff ;
+}
+
+.shopping{height: 50px;
+width: 50;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+.cart{font-size: 30px;}
+
+
+.one{font-size: 15px;
+    font-weight:bold
+}
+
+/*menu*/
+
+.panel{height: 39px;
+background-color: #222f3d;
+font-size: 15px;
+color: #ffffff;
+font-weight: 900px;
+display: flex;
+justify-content:flex-start;
+align-items: center;
+}
+
+.menu i{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.menu{margin-right: 8px;
+font-weight: bold;}
+.option{display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    width: 80%;
+    }
+
+    .items{padding: 6px;
+    }
+
+.electronics{font-weight: bold;
+font-size: larger;
+}
+/*herosection*/
+
+.herosection{background-image: url(hero_image.jpg);
+background-size:cover;
+height:350px;
+display: flex;
+justify-content: center;
+align-items:flex-end
+
+}
+
+.link{height: 40px;
+background-color: #f5f6f6;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 95%;
+margin-bottom:25px;
+
+}
+.link a{color: #2162A1;}
+.message{
+color: #0F1111;
+font-size: 14px;
+}
+
+/*shopping*/
+.shopsection{display: flex;
+justify-content: space-evenly;
+background-color:#e2e7e6;
+
+}
+.box{
+height: 405px;
+width:350px;
+background-color: white;
+padding: 20px 0px 15px;
+}
+.content{margin-left: 20px;
+margin-right: 20px;}
+
+.image1{background-image: url(box1_image.jpg);
+background-size: cover;
+width: 100%;
+height: 300px;
+margin-top: 20px;
+margin-bottom: 20px;}
+
+.imagewrite{font-size: 14px;
+color:#2162A1}
+
+.shopsection2{display: flex;
+    justify-content: space-evenly;
+    background-color:#e2e7e6;
+    padding-top: 20px;
+    
+    }
+    .image2{background-image: url(box2_image.jpg);
+        background-size: cover;
+        width: 100%;
+        height: 300px;
+        margin-top: 20px;
+        margin-bottom: 20px;}
+
+        .image3{background-image: url(box3_image.jpg);
+            background-size: cover;
+            width: 100%;
+            height: 300px;
+            margin-top: 20px;
+            margin-bottom: 20px;}
+
+            .image4{background-image: url(box4_image.jpg);
+                background-size: cover;
+                width: 100%;
+                height: 300px;
+                margin-top: 20px;
+                margin-bottom: 20px;}
+
+                .image5{background-image: url(box5_image.jpg);
+                    background-size: cover;
+                    width: 100%;
+                    height: 300px;
+                    margin-top: 20px;
+                    margin-bottom: 20px;}
+
+                    .image6{background-image: url(box6_image.jpg);
+                        background-size: cover;
+                        width: 100%;
+                        height: 300px;
+                        margin-top: 20px;
+                        margin-bottom: 20px;}
+
+                        .image7{background-image: url(box7_image.jpg);
+                            background-size: cover;
+                            width: 100%;
+                            height: 300px;
+                            margin-top: 20px;
+                            margin-bottom: 20px;}
+                
+                         .image8{background-image: url(box8_image.jpg);
+                            background-size: cover;
+                                width: 100%;
+                                height: 300px;
+                                margin-top: 20px;
+                                margin-bottom: 20px;}
+
+/*footer*/
+
+  .top{background-color: #374049;
+color: #ffffff;
+height: 19px;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 15px;
+font-size: 14px;
+margin-top: 20px;}   
+
+.info{background-color: #182633;
+height: 300px;
+padding-left: 10px;
+padding-top: 35px;
+display: flex;
+justify-content: space-evenly;
+}
+
+
+.listone p{font-size: 16px;
+color: #ffffff;
+font-weight: bold;
+margin-bottom: 10px;
+
+}
+
+.listone li{list-style: none;
+font-size: 14px;
+font-weight: normal;
+color: #dddd;
+margin-bottom: 10px;}
+
+.end{background-color: #182633 ;
+height: 110px;
+border-top: 0.1px solid rgb(81, 80, 80);
+display: flex;
+justify-content:center;
+align-items: center;}
+
+
+.logo2{background-image: url(amazon_logo.png);
+background-size: cover;
+height:60px;
+width:10%; }
+
+.text{background-color: #182633 ;
+color: rgb(177, 171, 171);
+border: 1.5px solid  rgb(136, 133, 133);
+font-size: 15px;
+height: 30px;
+width: 140px;
+border-radius: 2px;
+margin-right: 10px;
+}
+
+
+
+
+
+
+
+                                
+                        
+
+
+
+
+
+                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
