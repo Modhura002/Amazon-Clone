@@ -1,2 +1,2 @@
 # Amazon Clone
- -made purely by CSS and HTML by Modhura
+ -made purely by CSS and HTML by Modhura Banerjee
