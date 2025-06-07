@@ -1,3 +1,3 @@
-# Amazon Clone
+# AMAZON CLONE
 
- --made purely by CSS and HTML by Modhura Banerjee
+ -made purely by CSS and HTML by Modhura Banerjee.
